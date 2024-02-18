@@ -12,6 +12,7 @@
     <modules>
         <module>quick-start-with-original-webflux</module>
         <module>quick-start</module>
+        <module>webflux-controller</module>
     </modules>
 
     <properties>
